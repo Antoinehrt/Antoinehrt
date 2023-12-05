@@ -1,6 +1,6 @@
 👋 Hi, I’m @Antoinehrt
 
-📚I am currently doing my second year of a bachelor's degree in management computing at HELHa in Belgium.
+📚I am currently doing my third year of a bachelor's degree in management computing at HELHa in Belgium.
 
 ✏I don't post much code at the moment.
 🏫I mainly use GitHub for my school projects.
