@@ -5,4 +5,4 @@
 ✏I don't post much code at the moment.
 🏫I mainly use GitHub for my school projects.
 
-💻Programming languages that I know : Java, C, Python, SQL, HTML, CSS, JavaScript, PHP, VBA, etc.
+💻Programming technologies that I know : Java, Angular, Python, C#, SQL, HTML, CSS, JavaScript, PHP, etc.
