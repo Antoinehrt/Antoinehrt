@@ -1,9 +1,6 @@
 👋 Hi, I’m @Antoinehrt
 
-📚I am currently doing my third year of a bachelor's degree in management computing at HELHa in Belgium.
-
-✏I don't post much code at the moment.
-🏫I mainly use GitHub for my school projects.
+📚A Belgian with a passion for creating programs and web application. I graduated with distinction in September 2024 with a bachelor's degree in Computer Science, majoring in applications development.
 
 💻Programming technologies that I know :
 
