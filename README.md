@@ -12,7 +12,7 @@
 
 ## Contact me : 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/antoine-hauret)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antoine-hauret)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Antoinehrt&icon=0&color=0)](https://visitcount.itsvg.in)
