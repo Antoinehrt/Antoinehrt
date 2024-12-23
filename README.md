@@ -10,7 +10,7 @@
 
 ## 🔧 Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,idea,pycharm,webstorm,rider,vscode,androidstudio,gitlab,linux,windows,obsidian,md,aws,azure,figma,matlab,pytorch&theme=dark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,idea,pycharm,webstorm,rider,vscode,androidstudio,gitlab,linux,windows,obsidian,aws,azure,figma,matlab,pytorch&theme=dark&perline=8)](https://skillicons.dev)
 
 ## 📊 GitHub Stats :
 
