@@ -13,10 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,idea,pycharm,webstorm,rider,vscode,androidstudio,postman,gitlab,linux,windows,obsidian,aws,azure,figma,matlab,pytorch&theme=dark&perline=8)](https://skillicons.dev)
 
-## 📊 GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=Antoinehrt&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-
 ## ☎️ Contact me :
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/antoine-hauret)
@@ -24,6 +20,7 @@
     [![My Skills](https://skillicons.dev/icons?i=gmail)]()
 </a>
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Antoinehrt&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
