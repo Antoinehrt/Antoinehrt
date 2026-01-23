@@ -7,7 +7,7 @@
 
 ## 💻 Technologies & Programming
 
-[![Technologies](https://skillicons.dev/icons?i=java,py,cs,js,ts,kotlin,cpp,c,php,bash,angular,fastapi,dotnet,flask,jquery,html,css,bootstrap,mysql,mongodb,redis,maven,regex&theme=dark&perline=8)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=java,py,cs,js,ts,kotlin,cpp,c,php,bash,angular,fastapi,dotnet,flask,spring,jquery,html,css,bootstrap,mysql,sqlite,mongodb,redis,maven,regex&theme=dark&perline=8)](https://skillicons.dev)
 
 ## 🛠️ Tools
 
