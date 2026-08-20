@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Antoinehrt
 
 👩🏻‍💻 A Belgian guy passionate about building software and web applications.</br>
-👨🏻‍💼 Currently working as a **MES Project Engineer at Technord**, contributing to industrial digitalization projects.
+👨🏻‍💼 Currently working as a **MES Project Engineer at Technord**, contributing to industrial digitalization projects.</br>
 👩🏻‍🎓 Graduated in September 2024 with a bachelor's degree in Computer Science, majoring in applications development.</br>
 😃 Whether it’s backend development or working across the fullstack, I’m always eager for new challenges and keep learning.</br>
 🌌 Feel free to get in touch if you'd like to collaborate!
